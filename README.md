@@ -1,1 +1,6 @@
 # Credit-Risk-Analysis-with-ML-DL
+* Since inaccurate customer credit risk evaluations can severely impact a bank's loan approvals, interest rates, and credit limits, the financial industry continually seeks to refine credit assessment processes to reduce financial risks. To enhance credit risk management and minimize potential losses, this project aims to develop and validate machine learning algorithms for accurately classifying individuals into distinct credit score categories based on factors like annual income, credit history, and net monthly salary.
+
+* After the data preprocessing and feature engineering stages, the models we implemented include K-Nearest Neighbors (KNN), Logistic Regression, Decision Tree, Gaussian Naive Bayes, Random Forest (RF), Support Vector Machine (SVM), XGBoost, LightGBM, CatBoost, Feedforward Neural Network (FFNN), TabNet, sigmoid-enhanced weighted boosting, and XGBoost stacking. After evaluating their performance metrics comprehensively , we will select the optimal model best suited for the multi-class classification problem of credit score assessment.
+
+**Keywords**: Credit Risk Analysis, Data Cleaning, Feature Engineering, Machine Learning, Boosting Models, Bagging Models, Neural Networks, Stacking, Fintech
